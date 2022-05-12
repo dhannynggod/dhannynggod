@@ -25,10 +25,9 @@
 
 [<img align="left" alt="FIGMA" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Figma-dynamic-gradient.png/640px-Figma-dynamic-gradient.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crystal128-source-php.svg/640px-Crystal128-source-php.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/AnantP%40php.png/640px-AnantP%40php.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/AnantP%40java.png/640px-AnantP%40java.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="VSCODE" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" style="padding-right:0px;" />][webdev]
 
 <br />
 <br />
