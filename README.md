@@ -1,4 +1,4 @@
-# Hi there, I'm Dhany - aka [dhannynggod](https://instagram.com/dhannynggod?igshid=YmMyMTA2M2Y=) 👋
+# Hi there, I'm Dhany - aka [dhannynggod](https://instagram.com/dhannynggod?igshid=YmMyMTA2M2Y=) ✌️
 ## About me:
 - 🔭 I’m currently study at [Dian Nuswantoro University](https://www.dinus.ac.id/)
 - 🌱 I’m currently learning PHP, Java, Python
