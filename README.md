@@ -5,13 +5,13 @@
 - 👯 I’m looking to collaborate as Web & Android Developer & UI/UX Designer
 - 💬 Ask me about anything
 - 📫 How to reach me: dhannysma14@gmail.com
-- ⚡ Fun fact: Nilai Bagus(5% usaha, doa, keringat > 95% kuasa dosen)😜
+- ⚡ Fun fact: Nilai Bagus (5% usaha, doa, keringat > 95% kuasa dosen)😜
 
 ## Education:
 
-#### 1. [Universitas Dian Nuswantoro](https://www.dinus.ac.id/) | Majoring Informatics Engineering | Semarang `2019-Now`
+#### 1. [Universitas Dian Nuswantoro](https://www.dinus.ac.id/) | Majoring Informatics Engineering | Semarang `2019 - Now`
    - Duty Jockey & Make a simple project 😎😎😎
- #### 2. [SMA N 14 Semarang](https://sman14-smg.sch.id/) | IPS | Semarang `2016-2019`
+ #### 2. [SMA N 14 Semarang](https://sman14-smg.sch.id/) | IPS | Semarang `2016 - 2019`
    - Head of the class IPS III
    - Joining RAMPAS management (FOURTEENAGER 2018 Event)
    - Paskibra Extracurricular (KorLap)
